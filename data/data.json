@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "nom": "John",
+      "mot_de_passe": "123"
+    },
+    {
+      "id": 2,
+      "nom": "Bob",
+      "mot_de_passe": "123"
+    },
+    {
+      "id": 3,
+      "nom": "Jack",
+      "mot_de_passe": "123"
+    }
+  ]
+}
